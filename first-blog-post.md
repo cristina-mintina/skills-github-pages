@@ -1,5 +1,6 @@
 ---
-Welcome: This is my first GitHub blog!
+title: This is my first GitHub blog!
+date: 2025-06-16
 ---
 Stupid poem I wrote in an effort to make my son laugh about a homework assignment he had for school.
 
